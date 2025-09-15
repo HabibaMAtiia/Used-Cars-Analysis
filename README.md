@@ -35,17 +35,17 @@ Detected & removed outliers using IQR method
 
 - Key analyses performed:
 
-Car Production Trends → Most cars produced in 2017
+  Car Production Trends → Most cars produced in 2017
+  
+  Fuel Types vs. Years → No strong relationship
+  
+  Car Title Status → “Clean” is the most common status
+  
+  Transmission Popularity → Automatic dominates (≈80%)
+  
+  Car Types → Sedan is the most popular
 
-Fuel Types vs. Years → No strong relationship
-
-Car Title Status → “Clean” is the most common status
-
-Transmission Popularity → Automatic dominates (≈80%)
-
-Car Types → Sedan is the most popular
-
-Pricing Trends → Prices rose until 2020, then dropped due to COVID-19 impact
+  Pricing Trends → Prices rose until 2020, then dropped due to COVID-19 impact
 
 ## 📈 Visualizations
 
@@ -70,14 +70,17 @@ Car prices peaked in 2020, followed by a decline influenced by the COVID-19 pand
 ## 🚀 How to Run
 
 1- Clone the repo:
+
   git clone https://github.com/your-username/used-cars-analysis.git
   
   cd used-cars-analysis
 
 2- Install dependencies:
+
    pip install -r requirements.txt
 
 3- Run the notebook or script:
+
    jupyter notebook used_cars_analysis.ipynb
 ## 📌 Future Work
 
