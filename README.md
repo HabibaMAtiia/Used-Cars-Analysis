@@ -66,3 +66,22 @@ Clean title status is most preferred.
 Car prices peaked in 2020, followed by a decline influenced by the COVID-19 pandemic.
  - Solving the issues found in our dataest as much as possible.
  - Answeing some business questions by analyzing our dataset.
+
+## 🚀 How to Run
+
+1- Clone the repo:
+  git clone https://github.com/your-username/used-cars-analysis.git
+  cd used-cars-analysis
+2- Install dependencies:
+   pip install -r requirements.txt
+3- Run the notebook or script:
+   jupyter notebook used_cars_analysis.ipynb
+## 📌 Future Work
+
+Apply machine learning models to predict car prices
+
+Perform feature engineering for better insights
+
+Build an interactive dashboard for visualization
+  
+
