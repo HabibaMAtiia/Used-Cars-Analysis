@@ -71,6 +71,7 @@ Car prices peaked in 2020, followed by a decline influenced by the COVID-19 pand
 
 1- Clone the repo:
   git clone https://github.com/your-username/used-cars-analysis.git
+  
   cd used-cars-analysis
 
 2- Install dependencies:
